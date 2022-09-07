@@ -49,7 +49,7 @@
     <body>  
     <form>  
       <div class="container">  
-      <center>  <h1> Student Registeration Form</h1> </center>  
+      <center>  <h1> Student Portal Registeration Form</h1> </center>  
       <hr>  
       <label> Firstname </label>   
     <input type="text" name="firstname" placeholder= "Firstname" size="15" required />   
